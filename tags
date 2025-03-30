@@ -1,0 +1,164 @@
+1. Basic Structure Tags
+<html> – Defines the root of an HTML document.
+
+<head> – Contains metadata, links, and title.
+
+<title> – Sets the title of the webpage.
+
+<body> – Contains the main content of the webpage.
+
+2. Heading and Text Formatting Tags
+<h1> to <h6> – Headings (largest to smallest).
+
+<p> – Paragraph.
+
+<br> – Line break.
+
+<hr> – Horizontal line.
+
+<strong> – Bold text (semantic).
+
+<b> – Bold text (non-semantic).
+
+<em> – Italic text (semantic).
+
+<i> – Italic text (non-semantic).
+
+<u> – Underlined text.
+
+<mark> – Highlighted text.
+
+<small> – Smaller text.
+
+<del> – Strikethrough text.
+
+<sub> – Subscript text.
+
+<sup> – Superscript text.
+
+3. List Tags
+<ul> – Unordered list.
+
+<ol> – Ordered list.
+
+<li> – List item.
+
+<dl> – Description list.
+
+<dt> – Term in a description list.
+
+<dd> – Description of a term.
+
+4. Link and Navigation Tags
+<a> – Anchor tag (hyperlink).
+
+<nav> – Defines navigation links.
+
+5. Table Tags
+<table> – Defines a table.
+
+<tr> – Table row.
+
+<td> – Table data cell.
+
+<th> – Table header cell.
+
+<thead> – Table header section.
+
+<tbody> – Table body section.
+
+<tfoot> – Table footer section.
+
+<colspan> – Merges table columns.
+
+<rowspan> – Merges table rows.
+
+6. Form and Input Tags
+<form> – Defines a form.
+
+<input> – Input field.
+
+<textarea> – Multi-line text input.
+
+<button> – Clickable button.
+
+<label> – Label for an input field.
+
+<select> – Dropdown list.
+
+<option> – Option in a dropdown.
+
+<fieldset> – Groups form elements.
+
+<legend> – Title for a fieldset.
+
+<datalist> – Predefined options for an input.
+
+7. Media Tags
+<img> – Displays an image.
+
+<audio> – Embeds audio files.
+
+<video> – Embeds video files.
+
+<source> – Defines media sources.
+
+<track> – Adds subtitles/captions to videos.
+
+<iframe> – Embeds another webpage.
+
+<embed> – Embeds external content.
+
+<object> – Embeds objects like PDFs.
+
+8. Semantic Tags
+<header> – Page or section header.
+
+<footer> – Page or section footer.
+
+<article> – Independent content.
+
+<section> – A section of a document.
+
+<aside> – Sidebar content.
+
+<main> – Main content of a document.
+
+<figure> – Groups media elements.
+
+<figcaption> – Caption for a <figure>.
+
+<mark> – Highlights text.
+
+<time> – Represents a date/time.
+
+9. Scripting and Meta Tags
+<script> – Embeds JavaScript.
+
+<noscript> – Content displayed if JavaScript is disabled.
+
+<meta> – Metadata about the document.
+
+<link> – Links external stylesheets.
+
+<style> – Internal CSS styles.
+
+<base> – Sets a base URL for links.
+
+10. Miscellaneous Tags
+<div> – Generic container for layout.
+
+<span> – Inline container for styling.
+
+<details> – Collapsible details section.
+
+<summary> – Summary for <details>.
+
+<progress> – Progress bar.
+
+<meter> – Measurement scale.
+
+<template> – Defines reusable HTML snippets.
+
+<wbr> – Line break opportunity.
+
